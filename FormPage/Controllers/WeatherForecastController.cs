@@ -17,7 +17,7 @@ namespace FormPage.Controllers
         {
             _logger = logger;
         }
-
+        // add commit to check git flow 
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {
