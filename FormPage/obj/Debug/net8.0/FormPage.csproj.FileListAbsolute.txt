@@ -198,3 +198,7 @@ C:\Users\6\source\repos\FormPage\FormPage\obj\Debug\net8.0\FormPage.genruntimeco
 C:\Users\6\source\repos\FormPage\FormPage\obj\Debug\net8.0\ref\FormPage.dll
 C:\Users\6\source\repos\FormPage\FormPage\bin\Debug\net8.0\nunit.framework.dll
 C:\Users\6\source\repos\FormPage\FormPage\bin\Debug\net8.0\nunit.framework.legacy.dll
+C:\Users\6\source\repos\FormPage\FormPage\obj\Debug\net8.0\FormPage.sourcelink.json
+C:\Users\6\source\repos\FormPage\FormPage\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\6\source\repos\FormPage\FormPage\bin\Debug\net8.0\AutoMapper.Collection.dll
+C:\Users\6\source\repos\FormPage\FormPage\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

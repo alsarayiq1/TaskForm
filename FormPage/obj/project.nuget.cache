@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "JxjlG6uUTXW4Mit4kdaV6tHtsDVH/TVnBDe+S/HTe5QLmjBF4YzV1woqnnMeBPNzsoZxZJ9h8fTB0YFkIOBIrA==",
+  "dgSpecHash": "VFqHgMljZ06bP7FJF7DTkJxdsa8+vv5bAatryaEow23pznWxE+t6e1GY1Sa/LaRzWAIy12F5/BPnYvrQRXlTow==",
   "success": true,
   "projectFilePath": "C:\\Users\\6\\source\\repos\\FormPage\\FormPage\\FormPage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\6\\.nuget\\packages\\aspnetcore.healthchecks.sqlserver\\8.0.0\\aspnetcore.healthchecks.sqlserver.8.0.0.nupkg.sha512",
+    "C:\\Users\\6\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\6\\.nuget\\packages\\automapper.collection\\10.0.0\\automapper.collection.10.0.0.nupkg.sha512",
+    "C:\\Users\\6\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\6\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\6\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\6\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
@@ -187,5 +190,16 @@
     "C:\\Users\\6\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\6\\.nuget\\packages\\zstdsharp.port\\0.7.1\\zstdsharp.port.0.7.1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 13.0.1 was resolved.",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

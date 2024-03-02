@@ -11,7 +11,7 @@ namespace FormPage.Entity
         [Description("الاسم الاول")]
         public string FirstName { get; set; }
         [Description("الاسم الثاني ")]
-        public string? LastName { get; set; }
+        public string LastName { get; set; }
         [Description("الاسم الثالث")]
         public string? ThirdName { get; set; }
         [Description(" اللقب")]
